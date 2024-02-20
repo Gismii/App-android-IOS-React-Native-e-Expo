@@ -16,30 +16,42 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de pross
 git clone https://github.com/Gismii/App-android-IOS-React-Native-e-Expo.git
 cd food-app
 
-Instale as dependências:
+## Instale as dependências:
 
 npm install
 
 
-Inicie o Expo:
+## Inicie o Expo:
 
 npx expo start
 
----
+```
+
+
 
 Escaneie o código QR usando o aplicativo Expo Go no seu dispositivo móvel ou execute em um emulador.
 
-##Funcionalidades
+# Funcionalidades
 
-React Native: O aplicativo é construído em React Native, garantindo uma experiência de usuário nativa em plataformas iOS e Android.
+## React Native:
 
-Tailwind CSS: O Tailwind CSS é utilizado para estilizar o aplicativo, facilitando a personalização e manutenção.
+ O aplicativo é construído em React Native, garantindo uma experiência de usuário nativa em plataformas iOS e Android.
 
-TypeScript: TypeScript é integrado para oferecer uma experiência de desenvolvimento mais segura e produtiva.
+## Tailwind CSS: 
 
-Expo: Facilita o desenvolvimento e o deployment do aplicativo, permitindo a visualização instantânea em dispositivos físicos ou emuladores.
+O Tailwind CSS é utilizado para estilizar o aplicativo, facilitando a personalização e manutenção.
 
-Zustand e React Native Storage: São usados para gerenciamento de estado e armazenamento local.
+## TypeScript: 
+
+typeScript é integrado para oferecer uma experiência de desenvolvimento mais segura e produtiva.
+
+## Expo: 
+
+Facilita o desenvolvimento e o deployment do aplicativo, permitindo a visualização instantânea em dispositivos físicos ou emuladores.
+
+## Zustand e React Native Storage: 
+
+São usados para gerenciamento de estado e armazenamento local.
 
 React Native Aware ScrollView: Melhora a experiência de rolagem e interação com a interface do usuário.
 
