@@ -64,9 +64,9 @@ Nativewind: Facilita a estilização usando classes do Tailwind CSS em React Nat
     <th>Checkout/Cart</th>
   </tr>
   <tr>
-    <td width="300"><img src="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo/assets/97984496/375d57dc-e52a-49d2-8669-e14dabe7d72a" alt="Captura de tela de 2024-02-27 21-29-05"></td>
-    <td width="300"><img src="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo/assets/97984496/091c8f5d-3ed2-47c2-b651-61c1a71cf4b4" alt="Captura de tela de 2024-02-27 21-27-48"></td>
-    <td width="300"><img src="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo/assets/97984496/f55758ed-fb13-4294-837e-972ddf80ea6e" alt="Captura de tela de 2024-02-27 21-28-15"></td>
+     <td width="300"><a href="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo"><img src="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo/assets/97984496/375d57dc-e52a-49d2-8669-e14dabe7d72a" alt="Captura de tela de 2024-02-27 21-29-05"></a></td>
+    <td width="300"><a href="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo"><img src="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo/assets/97984496/091c8f5d-3ed2-47c2-b651-61c1a71cf4b4" alt="Captura de tela de 2024-02-27 21-27-48"></a></td>
+    <td width="300"><a href="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo"><img src="https://github.com/Gismii/App-android-IOS-React-Native-e-Expo/assets/97984496/f55758ed-fb13-4294-837e-972ddf80ea6e" alt="Captura de tela de 2024-02-27 21-28-15"></a></td>
   </tr>
 </table>
 
