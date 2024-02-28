@@ -14,7 +14,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina antes de pross
 
 ```bash
 git clone https://github.com/Gismii/App-android-IOS-React-Native-e-Expo.git
-cd food-app
+cd bestFood
 
 ## Instale as dependências:
 
@@ -31,7 +31,7 @@ npx expo start
 
 Escaneie o código QR usando o aplicativo Expo Go no seu dispositivo móvel ou execute em um emulador.
 
-# Funcionalidades
+# Estrutura
 
 ## React Native:
 
@@ -56,5 +56,3 @@ São usados para gerenciamento de estado e armazenamento local.
 React Native Aware ScrollView: Melhora a experiência de rolagem e interação com a interface do usuário.
 
 Nativewind: Facilita a estilização usando classes do Tailwind CSS em React Native.
-
-
